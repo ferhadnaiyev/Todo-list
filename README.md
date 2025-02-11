@@ -6,7 +6,8 @@
 
 
 
-# START JSON-SERVER App json-server --watch src/db.json --port 4000
+# START JSON-SERVER App 
+```bash json-server --watch src/db.json --port 4000 ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
